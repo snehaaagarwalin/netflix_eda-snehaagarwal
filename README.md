@@ -1,4 +1,4 @@
-# Task 3 - Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 **Dataset:** Netflix Titles Dataset
 **Tools:** Python, Pandas, Matplotlib, Seaborn
 
